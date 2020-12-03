@@ -1,7 +1,7 @@
 {
-    "name": "phpseclib/phpseclib",
+    "name": "electro/phpseclib",
     "type": "library",
-    "description": "PHP Secure Communications Library - Pure-PHP implementations of RSA, AES, SSH2, SFTP, X.509 etc.",
+    "description": "PHP Secure Communications Library - Pure-PHP implementations of RSA, AES, SSH2, SFTP, X.509 etc. Electro Fork.",
     "keywords": [
         "security",
         "crypto",
